@@ -15,7 +15,7 @@ https://play.google.com/store/apps/details?id=com.fusionmedia.investing&hl=zh_TW
 預覽
 --------
 <p align="left">
-  <img src="https://i.imgur.com/gFWmgwZ.png" height="230"/>
+  <img src="https://i.imgur.com/gFWmgwZ.png" height="330"/>
 </p> 
 
 備註
